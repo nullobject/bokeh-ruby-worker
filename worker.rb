@@ -1,4 +1,4 @@
-require 'rubygems'
+require 'bundler/setup'
 require 'ffi-rzmq'
 require 'json'
 require 'ostruct'
